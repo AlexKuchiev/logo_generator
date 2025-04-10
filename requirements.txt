@@ -1,0 +1,9 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart
+python-dotenv
+aiogram>=2.25.1
+diffusers>=0.24.0
+transformers>=4.35.0
+torch>=2.0.0
+accelerate
